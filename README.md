@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+![](https://komarev.com/ghpvc/?username=GessicaVieira&color=36b812)<br>
+![](https://img.shields.io/github/followers/GessicaVieira?style=social)<br>
+![](https://img.shields.io/github/stars/GessicaVieira?style=social)<br>
 
 ###  Olá, eu sou a Gessica 👋 
 
